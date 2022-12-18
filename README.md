@@ -2,7 +2,7 @@
 
 Esse projeto é feito apenas de HTML E CSS, ainda que contenha
 funcionalidades que podem ser feitas facilmente apenas com javascript.
-Ele é feito de HTML E CSS puto
+Ele é feito de HTML E CSS puro
 
     Caso Você queira olhar mais projetos, acesse meu github na parte
     de links.
@@ -25,8 +25,8 @@ https://alura-books-lyart.vercel.app
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroReves)
-[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroreves_)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroReves)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroreves_)
 
 
 
